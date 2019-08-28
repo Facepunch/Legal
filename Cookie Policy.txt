@@ -1,12 +1,13 @@
-Cookie Policy
+Facepunch Cookie Policy
+Last updated on 28 August 2019
 
-We (meaning Facepunch Studios Ltd) use technologies on our website and online services (which we'll call the Services) to collect information that helps us improve your online experience. We refer to these technologies, which include cookies, collectively as “cookies.” This policy explains the different types of cookies used on the Services and how you can control them.  
+We (meaning Facepunch Studios Ltd and the Facepunch group of companies) use technologies on our website and online services (which we'll call the Services) to collect information that helps us improve your online experience. We refer to these technologies, which include cookies, collectively as “cookies.” This policy explains the different types of cookies used on the Services and how you can control them.  
 
-We hope that this policy helps you understand and feel more confident about our use of cookies. If you have any further queries, please contact us at legal@facepunch.com. Please also see our Privacy Policy at (www.facepunch.com/legal/privacy) and our Terms of Service at (www.facepunch.com/legal/tos).
+We hope that this policy helps you understand and feel more confident about our use of cookies. If you have any further queries, please contact us at legal@facepunch.com. Please also see our Privacy Policy at www.facepunch.com/legal/privacy and our Terms of Service at www.facepunch.com/legal/tos.
 
 1. WHAT IS A COOKIE?
 
-Cookies are small text files that are stored on your computer or mobile device. They are widely used in order to make websites or other online services work or to be better or more efficient. They can do this because websites and other online services can read and write these files, enabling them to recognise you and remember important information that will make your use of them more convenient (e.g. by remembering your user preferences).   
+Cookies are small text files that are stored on your computer or mobile device. They are widely used in order to make websites or other online services work or to be better or more efficient. They can do this because websites and other online services can read and write these files, enabling them to recognise you and remember important information that will make your use of them more convenient (e.g. by remembering your user preferences).  
 
 2. WHAT COOKIES DO WE USE?
 
@@ -16,12 +17,26 @@ Essential Cookies. These cookies are essential to the operation of our service i
 
 Functionality Cookies. In some circumstances, we may use functionality cookies. Functionality cookies allow us to remember the choices you make on the Services and to provide enhanced and more personalized features, such as customising a certain webpage, remembering if we have asked you to participate in a promotion and for other services you request, like watching a video or commenting on a blog. All of these features help us to improve your visit to the Services. 
 
-Flash Cookies.  We may, in certain situations, use Adobe Flash Player to deliver special content, such as video clips or animation. To improve your user experience, Local Shared Objects (commonly known as “Flash cookies”) are employed to provide functions such as remembering your settings and preferences. Flash cookies are stored on your device, but they are managed through an interface different from the one provided by your web browser. This means it is not possible to manage Flash cookies at the browser level, in the same way you would manage cookies. Instead, you can access your Flash management tools from Adobe’s website directly. The Adobe website provides comprehensive information on how to delete or disable Flash cookies ? see http://www.adobe.com/security/flashplayer for further information.  Please be aware that if you disable or reject Flash cookies for the Services, you may not be able to access certain features, such as video content or services that require you to sign in.     
+Flash Cookies. We may, in certain situations, use Adobe Flash Player to deliver special content, such as video clips or animation. To improve your user experience, Local Shared Objects (commonly known as “Flash cookies”) are employed to provide functions such as remembering your settings and preferences. Flash cookies are stored on your device, but they are managed through an interface different from the one provided by your web browser. This means it is not possible to manage Flash cookies at the browser level, in the same way you would manage cookies. Instead, you can access your Flash management tools from Adobe’s website directly. The Adobe website provides comprehensive information on how to delete or disable Flash cookies ? see http://www.adobe.com/security/flashplayer for further information. Please be aware that if you disable or reject Flash cookies for the Services, you may not be able to access certain features, such as video content or services that require you to sign in.     
+
+Targeting Cookies and Technologies. We and our service providers may use targeting cookies and other technologies to collect information (e.g. IP address device ID, general location information etc) on the Services that we believe are more relevant to you and your interests. For example, we may use targeting cookies to know when you visit our website. 
+
+Targeting cookies on the Services may include:
+
+A. _ga, which is used to distinguish users. Details of how to opt out are here: https://tools.google.com/dlpage/gaoptout. 
+B. _gid, which is used to distinguish users. Details of how to opt out are here: https://tools.google.com/dlpage/gaoptout. 
+C. _gat, which is used to throttle request rate. Details of how to opt out are here: https://tools.google.com/dlpage/gaoptout. 
+ 
 
 3. HOW DO I CONTROL COOKIES? 
 
-You may refuse to accept cookies from the Services at any time by activating the setting on your browser or device which allows you to refuse cookies. You can refuse to accept Flash cookies from the Services using Adobe’s Flash management tools at http://www.adobe.com/security/flashplayer.  Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider’s website via your help screen. You may wish to refer to http://www.allaboutcookies.org/manage-cookies/index.html for information on commonly used browsers. Please be aware that if cookies are disabled, not all features of the Services may operate as intended.
+You may refuse to accept cookies from the Services at any time by activating the setting on your browser or device which allows you to refuse cookies. You can refuse to accept Flash cookies from the Services using Adobe’s Flash management tools at http://www.adobe.com/security/flashplayer. Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider’s website via your help screen. You may wish to refer to http://www.allaboutcookies.org/manage-cookies/index.html for information on commonly used browsers. Please be aware that if cookies are disabled, not all features of the Services may operate as intended.
 
 4. CHANGES TO THIS COOKIE POLICY
 
-We may change this Cookie Policy at any time: please take a look at the “LAST UPDATED” date at the top of this policy to see when it was last revised.  Any amendments to this Cookie Policy will come into effect a reasonable eriod of time after this "LAST UPDATED" date (normally we consider 30 days to be a reasonable time period). If you do not agree to those changes, then unfortunately you must stop using the Services.  
+We may change this Cookie Policy at any time: please take a look at the “Last updated” date at the top of this policy to see when it was last revised. Changes will become legally binding as soon as it’s posted online but you're welcome to contact us anytime at legal@facepunch.com if you have specific questions or concerns about the changes. If you do not agree to those changes, then unfortunately you must stop using the Services.  
+
+                                                                                                              
+
+
+
