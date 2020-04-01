@@ -1,34 +1,34 @@
 Facepunch Modding Guidelines
 Last updated on 28 August 2019
 
-TL;DR -  we’re Facepunch Studios and we make games including Garry’s Mod, Rust, Clatter, Chippy, Facepunch prototype games as well as our other games, services and products (“Games”). We’re cool with our Games being open for modding by the community (it’s how Garry’s Mod started after all), but our lawyers have told us that we should put some guidelines in place about how you can do it (see below). If you have any questions, you can reach us at legal@facepunch.com.
+TL;DR -  we're Facepunch Studios and we make games including Garry's Mod, Rust, Clatter, Chippy, Facepunch prototype games as well as our other games, services and products ('Games'). We're cool with our Games being open for modding by the community (it's how Garry's Mod started after all), but our lawyers have told us that we should put some guidelines in place about how you can do it (see below). If you have any questions, you can reach us at legal@facepunch.com.
 
-1. What do you mean by ‘Mods’? Mods are modifications of a game (or part of it) and/or new content or tools made for it by the community, whether standalone or integrated into our Games, which can range from small additions to complete overhauls (“Mods”). For example, Mods include creating a plugin which provides players with additional in-game options, a base-building tool or a new game mode for one of our Games. It’s not an exact definition but we think it works and if you’re not sure you can always ask us.
+1. What do you mean by 'Mods'? Mods are modifications of a game (or part of it) and/or new content or tools made for it by the community, whether standalone or integrated into our Games, which can range from small additions to complete overhauls ('Mods'). For example, Mods include creating a plugin which provides players with additional in-game options, a base-building tool or a new game mode for one of our Games. It's not an exact definition but we think it works and if you're not sure you can always ask us.
 
 2. Can I make Mods for Facepunch Games? Yes (subject to these guidelines).
 
 3. Who owns the Mods? You own Mods that you create. However, we need you to provide us with specific rights over Mods to help us distribute them and other people to play them via our Games. The legalese is that you give us a non-exclusive, permanent, irrevocable, worldwide, sub-licensable, royalty-free licence to use, modify, reproduce, create derivative works from, distribute, transmit, perform communicate and exploit your Mods in connection with our Games.
 To be clear, we still own our Games, our other property and everything in them (e.g. game name, setting, gameplay and appearance).
 
-If you plan to put any third-party property into your Mod, it’s your sole responsibility to make sure you do it appropriately and legally.
+If you plan to put any third-party property into your Mod, it's your sole responsibility to make sure you do it appropriately and legally.
 
 4. Can I sell a Mod I own? Yes.
 
 5. What else applies to Mods?
 
-(a) Don’t call it ‘official’. It should be clear that your Mod is unofficial - this can be on your website or on the download page of your Mod or in a txt file in the Mod if applicable.
-(b) It’s your responsibility. Your Mod is your responsibility. Facepunch has no liability for anything that happens with your Mod. It is your job to make sure your Mods comply with Facepunch’s legal terms (including these guidelines) and to deal with any third parties using your Mod in ways which you do not like or breach Facepunch’s legal terms. You are responsible for everything else to do with the Mod, not us (stuff like legal compliance, payments, refunds, problems etc).
-(c) Don’t put it in other games/products. Please do not put your Mod made using our Games into a third-party game or product (whether or not for commercial use) if it contains or uses Facepunch intellectual property or contents.
-(d) Don’t be a dick. Be respectful to other players and our Games and don’t do or say anything that is illegal, circumvents or could harm our Games, Facepunch or any other players. Don’t infringe the rights of other people or businesses (e.g. games, movies, books, TV shows etc.). Cheating, griefing or hacking our Games are strictly prohibited - please see the Facepunch Terms of Service (www.facepunch.com/legal/tos) for more information.
-(e) Age appropriate. Make sure your Mods are suitable for the Games’ target audience.
-(f) Only distribute your Mod. You can distribute your Mod but you can’t distribute the underlying Game or other Facepunch property – that’s for us to do.  
+(a) Don't call it 'official'. It should be clear that your Mod is unofficial - this can be on your website or on the download page of your Mod or in a txt file in the Mod if applicable.
+(b) It's your responsibility. Your Mod is your responsibility. Facepunch has no liability for anything that happens with your Mod. It is your job to make sure your Mods comply with Facepunch's legal terms (including these guidelines) and to deal with any third parties using your Mod in ways which you do not like or breach Facepunch's legal terms. You are responsible for everything else to do with the Mod, not us (stuff like legal compliance, payments, refunds, problems etc).
+(c) Don't put it in other games/products. Please do not put your Mod made using our Games into a third-party game or product (whether or not for commercial use) if it contains or uses Facepunch intellectual property or contents.
+(d) Don't be a dick. Be respectful to other players and our Games and don't do or say anything that is illegal, circumvents or could harm our Games, Facepunch or any other players. Don't infringe the rights of other people or businesses (e.g. games, movies, books, TV shows etc.). Cheating, griefing or hacking our Games are strictly prohibited - please see the Facepunch Terms of Service (www.facepunch.com/legal/tos) for more information.
+(e) Age appropriate. Make sure your Mods are suitable for the Games' target audience.
+(f) Only distribute your Mod. You can distribute your Mod but you can't distribute the underlying Game or other Facepunch property ' that's for us to do.  
 (g) Game updates may affect your Mods. Please remember we might make upgrades, updates or patches available from time to time for our Games and that could have an impact on Mods and other software (in the worst case making them inoperable).
-(h) Mods are at our discretion. Your ability to create, use and distribute Mods based on our Games is at our discretion and we can withdraw it in the future if we think it is necessary, particularly for the protection of Facepunch or our Games. Don’t worry, we don’t plan to use this arbitrarily or randomly, there has to be sufficient reason, but it’s just common sense to point it out.
+(h) Mods are at our discretion. Your ability to create, use and distribute Mods based on our Games is at our discretion and we can withdraw it in the future if we think it is necessary, particularly for the protection of Facepunch or our Games. Don't worry, we don't plan to use this arbitrarily or randomly, there has to be sufficient reason, but it's just common sense to point it out.
 (i) Follow the legal rules. In addition to these guidelines there are our full legal rules in the Facepunch Terms of Service and Facepunch Privacy Policy at www.facepunch.com/legal. If there is any conflict between these guidelines and those documents, then those documents win. Please also make sure you comply with any other applicable laws and regulations.
 
 6. Changes to these guidelines.
 
-We expect these guidelines to be updated from time to time– we will post an update on wwww.facepunch.com when that happens. Once we change these guidelines, it will become legally binding as soon as it’s posted online but you're welcome to contact us anytime at legal@facepunch.com if you have specific questions or concerns about the changes. If you do not agree to those changes, then unfortunately you must stop using our services.  
+We expect these guidelines to be updated from time to time' we will post an update on wwww.facepunch.com when that happens. Once we change these guidelines, it will become legally binding as soon as it's posted online but you're welcome to contact us anytime at legal@facepunch.com if you have specific questions or concerns about the changes. If you do not agree to those changes, then unfortunately you must stop using our services.  
 
 7. Anything else?
 
