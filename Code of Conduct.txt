@@ -1,6 +1,6 @@
-FACEPUNCH – CODE OF CONDUCT
+FACEPUNCH â€“ CODE OF CONDUCT
 
-At Facepunch Studios, we want our players to enjoy playing our games. This Code of Conduct (Code) applies to all of our games (such as Rust and Garry’s Mod). Just to be clear: if something is not specifically called out below it doesn’t mean it’s OK, so use this Code as a guide.
+At Facepunch Studios, we want our players to enjoy playing our games. This Code of Conduct (Code) applies to all of our games (such as Rust and Garryâ€™s Mod). Just to be clear: if something is not specifically called out below it doesnâ€™t mean itâ€™s OK, so use this Code as a guide.
 
 1. Golden rules
 
@@ -8,7 +8,7 @@ At Facepunch Studios, we want our players to enjoy playing our games. This Code 
 (b) Bad language. Do not use any foul or discriminatory language, including anything racist, sexist or homophobic.  
 (c) Personal information. Do not share your personal information about yourself or other individuals (this includes name, phone numbers, email address, social media accounts).
 (d) Play fair. Do not hack, cheat or otherwise give yourself an unfair advantage in our games. 
-(e) Account sharing. Your account is for your use alone – do not share access to your account or access anyone else’s account (even with their permission).
+(e) Account sharing. Your account is for your use alone â€“ do not share access to your account or access anyone elseâ€™s account (even with their permission).
 
 2. Chat and reporting
 
@@ -20,7 +20,7 @@ We use a combination of automated and human monitoring for our in-game chat. Mor
 
 These rules could change, so we recommend you check here regularly to stay up-to-date. We reserve the right to suspend or ban users who breach this Code.
 
-We’d also recommend you review our Terms of Service, which are legally binding on you. If you have any questions, please email us at legal@facepunch.com. 
+Weâ€™d also recommend you review our Terms of Service, which are legally binding on you. If you have any questions, please email us at legal@facepunch.com. 
 
 
 

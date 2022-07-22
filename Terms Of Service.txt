@@ -159,7 +159,7 @@ SUMMARY. You can terminate this Agreement by stopping use of all Facepunch Servi
 - If your ban has been issued by Easy Anti-Cheat and you would like to appeal, please visit: https://www.easy.ac/en-us/support/game/contact/appeal/. 
 - If your ban has been issued by Valve (VAC), please visit: https://help.steampowered.com/en/faqs/view/571A-97DA-70E9-FF74. 
 
-10.3. If Facepunch decides itself to stop providing any Facepunch Services permanently, we will try to give you at least sixty (60) days’ notice. 
+10.3. If Facepunch decides itself to stop providing any Facepunch Services permanently, we will try to give you at least sixty (60) day’s notice. 
 
 11. GOVERNING LAW
 

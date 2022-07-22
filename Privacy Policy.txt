@@ -5,68 +5,68 @@ Tl;dr
 - This policy tells you what you need to know about what information we collect about you, as well as how, when, and why we collect it, what we do with it and how long we keep it for (this information is known as personal data). 
 - Basically, we collect personal data to provide our games and other services to you, improve those services, and protect our games and our players from cheating and other inappropriate behaviour. 
 - We collect personal data when you play our games or sign up for our other services, when you use our chat features (although we normally delete this data after 30 days) and when you send us messages. 
-- We don’t sell your personal data to anyone, but we do have to share it with some other companies so that they can help us run our business. 
-- We only keep your data for as long as we need it, and you have rights to ask us to do things like delete it, give you a copy of it, or correct it where it’s wrong.- You can contact us on legal@facepunch.com if you’ve got questions about data protection or general legal matters at Facepunch - please note we will ignore any emails unrelated to these topics. If you have game or other general queries, please contact our support team at https://support.facepunchstudios.com/hc/en-us. 
+- We donâ€™t sell your personal data to anyone, but we do have to share it with some other companies so that they can help us run our business. 
+- We only keep your data for as long as we need it, and you have rights to ask us to do things like delete it, give you a copy of it, or correct it where itâ€™s wrong.- You can contact us on legal@facepunch.com if youâ€™ve got questions about data protection or general legal matters at Facepunch - please note we will ignore any emails unrelated to these topics. If you have game or other general queries, please contact our support team at https://support.facepunchstudios.com/hc/en-us. 
 - We also collect personal data of those that apply to work at Facepunch.  If you apply for a job at Facepunch please read the final section of this privacy policy (personal data of job applicants) to understand how we will use your personal data.  
 
 Who are we?
 
-We are Facepunch Studios Ltd (incorporated and registered in England with company number 06848626) of Concept House, Elmore Green Road, Bloxwich, Walsall, West Midlands, WS3 2QW, United Kingdom as well as the Facepunch group of companies ('Facepunch'). We are the creators of Garry’s Mod, Rust and other games. Because of how we collect personal and data, and the fact that we don’t do this under anyone else’s instructions, we are the controller for your personal data. This means that we decide how we process the personal data we hold about you. We are registered as a controller with the Information Commissioner’s Office and our registration number is: ZA443931.
+We are Facepunch Studios Ltd (incorporated and registered in England with company number 06848626) of Concept House, Elmore Green Road, Bloxwich, Walsall, West Midlands, WS3 2QW, United Kingdom as well as the Facepunch group of companies ('Facepunch'). We are the creators of Garryâ€™s Mod, Rust and other games. Because of how we collect personal and data, and the fact that we donâ€™t do this under anyone elseâ€™s instructions, we are the controller for your personal data. This means that we decide how we process the personal data we hold about you. We are registered as a controller with the Information Commissionerâ€™s Office and our registration number is: ZA443931.
 What / who is this policy for?
 
-This policy applies to all of our games (except Rust on console – more on that below), apps, websites (including this one), forum, support services, software development kits, online tools, blogs, social media accounts, and any other products and services we offer. We may collect some personal data about you when you use or interact with any of these services, so the policy applies to you whenever this is the case. Personal data means any information about you or that identifies you.
-If you’d like to know more about your personal data for the Xbox and PlayStation versions of Rust, the publisher (and controller) of those versions is Double Eleven (please see their privacy policy here: https://rust.double11.com/privacy-policy).
+This policy applies to all of our games (except Rust on console â€“ more on that below), apps, websites (including this one), forum, support services, software development kits, online tools, blogs, social media accounts, and any other products and services we offer. We may collect some personal data about you when you use or interact with any of these services, so the policy applies to you whenever this is the case. Personal data means any information about you or that identifies you.
+If youâ€™d like to know more about your personal data for the Xbox and PlayStation versions of Rust, the publisher (and controller) of those versions is Double Eleven (please see their privacy policy here: https://rust.double11.com/privacy-policy).
 
 What about children?
 
-If you’re under 18 (or a parent or guardian), then this section is especially important. We recognise that we have a special obligation to protect personal data obtained from children. Legally, you must be at least 13 to use our games and services (although some of our games may have a higher age rating). However, we don’t collect or store your age or date of birth. If you don’t understand something on this page, then please ask your parent or guardian to help. 
-We do not knowingly collect personal data of anyone under the age of 13 without parental or guardian consent. If you’re a parent or guardian and are concerned about how we process your child’s personal data, please do get in touch at legal@facepunch.com.
+If youâ€™re under 18 (or a parent or guardian), then this section is especially important. We recognise that we have a special obligation to protect personal data obtained from children. Legally, you must be at least 13 to use our games and services (although some of our games may have a higher age rating). However, we donâ€™t collect or store your age or date of birth. If you donâ€™t understand something on this page, then please ask your parent or guardian to help. 
+We do not knowingly collect personal data of anyone under the age of 13 without parental or guardian consent. If youâ€™re a parent or guardian and are concerned about how we process your childâ€™s personal data, please do get in touch at legal@facepunch.com.
 
 What data do we collect and how do we collect it?
-- Email address – if you email customer service or sign up to one of our services using your email address, we will hold this data so that we can help and respond to you.
-- Real name – this may be provided voluntarily by you if you contact us or use it to sign up to one of our services.
-- SteamID64 and Steam username – if you access some of our services.
-- Forum username – created when you sign up to our forum.
-- IP address – your computer’s internet address, which is collected when you sign up to our forum or use some of our services.
-- Device push token – collected from Rust+ and deleted after 40 days.
-- Push notification history – collected from Rust+ and deleted after 7 days.
-- Information about servers that you have enabled push notifications from, and which channels you’ve opted out from – collected from Rust+ and retained indefinitely.
-- Chat logs from in-game – for example, in Rust, we have an open chat feature where you can say anything you like (within a few rules that are there for safety). If you write anything in the chat that is your personal data, we have this on our servers for 30 days.
+- Email address â€“ if you email customer service or sign up to one of our services using your email address, we will hold this data so that we can help and respond to you.
+- Real name â€“ this may be provided voluntarily by you if you contact us or use it to sign up to one of our services.
+- SteamID64 and Steam username â€“ if you access some of our services.
+- Forum username â€“ created when you sign up to our forum.
+- IP address â€“ your computerâ€™s internet address, which is collected when you sign up to our forum or use some of our services.
+- Device push token â€“ collected from Rust+ and deleted after 40 days.
+- Push notification history â€“ collected from Rust+ and deleted after 7 days.
+- Information about servers that you have enabled push notifications from, and which channels youâ€™ve opted out from â€“ collected from Rust+ and retained indefinitely.
+- Chat logs from in-game â€“ for example, in Rust, we have an open chat feature where you can say anything you like (within a few rules that are there for safety). If you write anything in the chat that is your personal data, we have this on our servers for 30 days.
 
-In most of the above situations, we’re collecting personal data because it’s necessary. However, personal data you provide voluntarily is handled differently: where you contact us with any questions or use our chat functionality, this will be processed on the basis of our legitimate interests; and where you subscribe to our marketing and newsletters this will be processed on the basis of your consent.
+In most of the above situations, weâ€™re collecting personal data because itâ€™s necessary. However, personal data you provide voluntarily is handled differently: where you contact us with any questions or use our chat functionality, this will be processed on the basis of our legitimate interests; and where you subscribe to our marketing and newsletters this will be processed on the basis of your consent.
 
 If you contact us via social media platforms, we may process personal data that you provide. This will also be made available to the social media platform so you should also check their privacy policies before reaching out.  
 
-We don’t deal with any payment information, which is handled by the platforms we use, such as Steam, the Apple App Store, and Google Play. Even if you make an in-game purchase, we just get a notification from our platform partner – we don’t see your payment details.
+We donâ€™t deal with any payment information, which is handled by the platforms we use, such as Steam, the Apple App Store, and Google Play. Even if you make an in-game purchase, we just get a notification from our platform partner â€“ we donâ€™t see your payment details.
 
 We also use some cookies in order to maintain and improve our website and services. Please do have a read of our cookie policy (www.facepunch.com/legal/cookie) for more information and to see how to manage your cookie preferences.
 
 What do we do with your personal data?
 
-We only process your personal data in accordance with the law in the UK, where we are based – this includes the GDPR, the Data Protection Act 2018, and the Age Appropriate Design Code (aka The Children’s Code).
+We only process your personal data in accordance with the law in the UK, where we are based â€“ this includes the GDPR, the Data Protection Act 2018, and the Age Appropriate Design Code (aka The Childrenâ€™s Code).
 - We use your personal data to run, maintain, and improve our services, as well as to communicate with you (e.g. by email). The most obvious way we use your personal data is to make our games available for you to play.  Secondly, we also use your personal data to provide our other related services to you, such as support services and our forum.  Additionally, we use it to monitor the performance of our services so that our games and other things work for you and your device, allow us to monitor for bugs, enforce our policies, notify you about changes, protect our services, deal with cheats and hacks, and protect you and our other users.
-- We share it with some other companies on a strictly necessary basis so that they can provide services to us, like Steam information about how people are playing our games, or handling cheaters. We never sell your personal data, and you can find out more about who we share data with in the ‘Who do we share your data with?’ section below.
+- We share it with some other companies on a strictly necessary basis so that they can provide services to us, like Steam information about how people are playing our games, or handling cheaters. We never sell your personal data, and you can find out more about who we share data with in the â€˜Who do we share your data with?â€™ section below.
 - We also sometimes need to use your personal data to comply with our legal obligations, including complying with the Digital Millennium Copyright Act and the E-Commerce Directive.
-- If you give us your consent, we’ll also use your personal data to give you marketing updates from time to time. We’ll also never share your data with other companies to do their own marketing unless you give us consent to do so.
+- If you give us your consent, weâ€™ll also use your personal data to give you marketing updates from time to time. Weâ€™ll also never share your data with other companies to do their own marketing unless you give us consent to do so.
 
 More about in-game chat
 
-Whilst things like log in details, email addresses, and Steam information are more obvious, we want to draw your attention to our chat feature in Rust, Garry’s Mod and other games. We want our chat to be open and fun, so we won’t stop you from sharing your personal data there if you want to. We encourage you to be careful and not share anything too personal, like your phone number, home address, email address, or other social media information (we also suggest the same if you post on our forum).
+Whilst things like log in details, email addresses, and Steam information are more obvious, we want to draw your attention to our chat feature in Rust, Garryâ€™s Mod and other games. We want our chat to be open and fun, so we wonâ€™t stop you from sharing your personal data there if you want to. We encourage you to be careful and not share anything too personal, like your phone number, home address, email address, or other social media information (we also suggest the same if you post on our forum).
 
 We keep chat logs for 30 days and use some tools to analyse it to help keep everyone safe. These tools include an automated system to flag offensive language as well as manual review when necessary. We take the protection of children in particular seriously and will keep the safety tools we use under review to ensure they are adequate. If you have any concerns about the chat feature, or something you see in the chat, then please get in touch and we can look into it.
 
 Who do we share your personal data with?
 
-Bear in mind that Steam also collects personal data about people who play our games, but they don’t share this with us. Steam is a controller for the personal data it collects, and if you have concerns about this, head over to the Steam website and review their privacy policy (https://store.steampowered.com/privacy_agreement/). Similarly, if you share any content of your gameplay with any social media platform (such as Twitter, Twitch, YouTube or Discord) then these platforms will be controllers of any personal data you choose to share.  
+Bear in mind that Steam also collects personal data about people who play our games, but they donâ€™t share this with us. Steam is a controller for the personal data it collects, and if you have concerns about this, head over to the Steam website and review their privacy policy (https://store.steampowered.com/privacy_agreement/). Similarly, if you share any content of your gameplay with any social media platform (such as Twitter, Twitch, YouTube or Discord) then these platforms will be controllers of any personal data you choose to share.  
 
-We also have some processors who collect personal data from our customers in order to carry out their services for us. This isn’t data we collect and share with them – they collect it directly from you. These processors include our server provider, our anti-cheating provider, our stats provider, our error-tracking provider, our customer support provider and our mass-mailing provider.  
+We also have some processors who collect personal data from our customers in order to carry out their services for us. This isnâ€™t data we collect and share with them â€“ they collect it directly from you. These processors include our server provider, our anti-cheating provider, our stats provider, our error-tracking provider, our customer support provider and our mass-mailing provider.  
 
 In the event of a reorganisation or merger of Facepunch we may transfer personal data to an involved third party who will protect this to at least the same level as we do in this policy.
 
 Finally, we may share personal data with law enforcement if we believe there is a good reason to do so and if it will assist in any investigation.  
 
 How long do we keep personal data for?
-We only keep personal data for as long as we need to, depending on the purpose for which it was collected. For example, we’ll need to keep your email address for as long as you want to remain subscribed to marketing emails. However, sometimes we have a legal obligation to keep personal data for longer, or we may need to keep it to resolve a dispute, or to prevent cheating or other inappropriate activities.
+We only keep personal data for as long as we need to, depending on the purpose for which it was collected. For example, weâ€™ll need to keep your email address for as long as you want to remain subscribed to marketing emails. However, sometimes we have a legal obligation to keep personal data for longer, or we may need to keep it to resolve a dispute, or to prevent cheating or other inappropriate activities.
 
 How do we keep personal data safe? 
 
@@ -78,7 +78,7 @@ If any of our processors are based outside of the UK or EEA we will ensure there
 
 What rights do you have?
 
-You have various rights in relation to your personal data. The UK’s Information Commission’s Office website provides a helpful and informative summary of your rights which you can access here: https://ico.org.uk/your-data-matters/. In particular, we’d like to remind you that you have:-the right of access to a copy of the personal data we hold about you;
+You have various rights in relation to your personal data. The UKâ€™s Information Commissionâ€™s Office website provides a helpful and informative summary of your rights which you can access here:Â https://ico.org.uk/your-data-matters/. In particular, weâ€™d like to remind you that you have:-the right of access to a copy of the personal data we hold about you;
 - the right to require us to correct any inaccuracies in your personal data;
 - the right to object to decisions about you being taken by automated means;
 - where we have sought your consent, the right to withdraw your consent at any time; and
@@ -93,26 +93,26 @@ If you wish to exercise any of your rights, please contact us at legal@facepunch
 
 Please be aware that each of these rights are qualified rights, meaning that there may be circumstances where we are unable to comply with your request.  Once you make a request, and where we can comply, we will do so within one calendar month although we may have to extend this for more complex requests or where we have received a high volume.  
 
-You also have the right to complain to your data protection supervisory authority (this is the Information Commissioner’s Office in the UK), although we would ask that you try and settle any issues with us in the first instance.  
+You also have the right to complain to your data protection supervisory authority (this is the Information Commissionerâ€™s Office in the UK), although we would ask that you try and settle any issues with us in the first instance.  
 
-What if I’m in California? 
+What if Iâ€™m in California? 
 
-California residents who have an established business relationship with us have the right to request certain information with respect to the types of personal data we have shared with third parties for their direct marketing purposes, and the identities of those third parties, within the immediately preceding calendar year, subject to certain exceptions. All requests for such information must be in writing and sent to: 'Facepunch Studios Ltd at Concept House, Elmore Green Road, Bloxwich, Walsall, West Midlands, WS3 2QW, United Kingdom’. This same California law permits us to provide you, in response to your written request, with a cost-free means to choose not to have your personal data shared rather than providing the above described information. If you want to do this, you can contact us at the address above.
+California residents who have an established business relationship with us have the right to request certain information with respect to the types of personal data we have shared with third parties for their direct marketing purposes, and the identities of those third parties, within the immediately preceding calendar year, subject to certain exceptions. All requests for such information must be in writing and sent to: 'Facepunch Studios Ltd at Concept House, Elmore Green Road, Bloxwich, Walsall, West Midlands, WS3 2QW, United Kingdomâ€™. This same California law permits us to provide you, in response to your written request, with a cost-free means to choose not to have your personal data shared rather than providing the above described information. If you want to do this, you can contact us at the address above.
 
 Can this policy change?
 
-Yes, as our business and the law develop, we will need to keep this policy up to date. We’ll make reasonable efforts to let you know if this happens, and you can decide whether you agree with the new policy or not. Unfortunately, if you don’t agree, then we won’t be able to provide our games or services to you. We'd also like to remind you that our Terms of Service has more information about how we operate the Facepunch services and you can find these here: www.facepunch.com/legal/tos.
+Yes, as our business and the law develop, we will need to keep this policy up to date. Weâ€™ll make reasonable efforts to let you know if this happens, and you can decide whether you agree with the new policy or not. Unfortunately, if you donâ€™t agree, then we wonâ€™t be able to provide our games or services to you. We'd also like to remind you that our Terms of Service has more information about how we operate the Facepunch services and you can find these here: www.facepunch.com/legal/tos.
 
 Personal data of job applicants
 
 Facepunch will also advertise jobs from time-to-time and invite people to apply. If you apply for a position at Facepunch then we will process your personal data and this section applies to you.  
 The personal data we collect when you apply for a job will be limited to that information you submit to us. This will include your name, previous employment history, CV, referees, and any supplementary information that you provide. We do not collect any special categories of personal data save that we will request you to provide any relevant health data where this is necessary for us to facilitate any interviews.  
 
-All personal data of job applicants will be processed solely for the purpose of assessing the merits of the candidates and suitability for the role for which they have applied.  This will be processed in accordance with Facepunch’s legitimate interests. Where we process health data (as mentioned above) this will be processed for the purpose of complying with employment requirements.  
+All personal data of job applicants will be processed solely for the purpose of assessing the merits of the candidates and suitability for the role for which they have applied.  This will be processed in accordance with Facepunchâ€™s legitimate interests. Where we process health data (as mentioned above) this will be processed for the purpose of complying with employment requirements.  
 
-Where candidates are successful and accept a job with Facepunch, their personal data will be held in as part of their HR file and retained in line with Facepunch’s staff privacy policy. Where candidates are unsuccessful, personal data will be held for a period of 12 months.  
+Where candidates are successful and accept a job with Facepunch, their personal data will be held in as part of their HR file and retained in line with Facepunchâ€™s staff privacy policy. Where candidates are unsuccessful, personal data will be held for a period of 12 months.  
 
-Job applicants should also review the above sections of this privacy policy which will be relevant to Facepunch’s processing of their personal data: 
+Job applicants should also review the above sections of this privacy policy which will be relevant to Facepunchâ€™s processing of their personal data: 
 - Who are we?
 - How do we keep personal data safe?
 - What rights do you have?

@@ -18,15 +18,15 @@ TL;DR -  we're Facepunch Studios and we make games including Garry's Mod, Rust, 
 (a) Don't call it 'official'. It should be clear that your Server is unofficial - don't pretend to be us.
 (b) It's your responsibility. Servers are your responsibility. Facepunch has no liability to you or to players for anything that happens on your Servers. It is your job to make sure your Servers comply with Facepunch's legal terms (including these guidelines) and to deal with any third parties using your Servers in ways which you do not like or breach Facepunch's legal terms.  
 (c) Don't be a dick. Be respectful to other players and our Games and don't do or say anything that is illegal, circumvents paid content, or could harm our Games, Facepunch or any other players. Don't infringe the rights of other people or businesses (e.g. games, movies, books, TV shows etc.) This also includes ensuring your Servers are free from viruses, malware and spyware. Cheating, griefing or hacking our Games are strictly prohibited - please see the Facepunch Terms of Service (www.facepunch.com/legal/tos) for more information.
-(d) Age appropriate. Make sure all your content (including ads and items) are suitable for the Games' target audience.
-(e) Only distribute your Server. You can distribute your Servers but you can't distribute the underlying Game ' that's for us to do.  
+(d) Age appropriate. Make sure all your content (including ads and items) are suitable for the Game's target audience.
+(e) Only distribute your Server. You can distribute your Servers but you can't distribute the underlying Game - that's for us to do.  
 (f) Game updates may affect your Servers. Please remember we might make upgrades, updates or patches available from time to time for our games and that could have an impact on Servers and other software (in the worst case making them inoperable).
 (g) Community Servers are at our discretion. Your ability to create, use and distribute Servers based on our Games is at our discretion and we can withdraw it in the future, particularly for the protection of Facepunch or our Games. Don't worry, we don't plan to use this arbitrarily or randomly, there has to be sufficient reason, but it's just common sense to point it out.
 (h) Follow the legal rules. In addition to these guidelines there are our full legal rules in the Facepunch Terms of Service and Facepunch Privacy Policy at www.facepunch.com/legal. If there is any conflict between these guidelines and those documents, then those documents win. Please also make sure you comply with any other applicable laws and regulations.
 
 4. Changes to these guidelines.
 
-We expect these guidelines to be updated from time to time' we will post an update on wwww.facepunch.com when that happens. Once we change these guidelines, it will become legally binding as soon as it's posted online but you're welcome to contact us at legal@facepunch.com anytime if you have specific questions or concerns about the changes. If you do not agree to those changes, then unfortunately you must stop using our services.  
+We expect these guidelines to be updated from time to time - we will post an update on wwww.facepunch.com when that happens. Once we change these guidelines, it will become legally binding as soon as it's posted online but you're welcome to contact us at legal@facepunch.com anytime if you have specific questions or concerns about the changes. If you do not agree to those changes, then unfortunately you must stop using our services.  
  
 5. Anything else?
 
