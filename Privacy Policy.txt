@@ -1,5 +1,5 @@
 FACEPUNCH PRIVACY POLICY
-Last updated on 18 July 2022
+Last updated on 25 October 2022
 
 Tl;dr
 - This policy tells you what you need to know about what information we collect about you, as well as how, when, and why we collect it, what we do with it and how long we keep it for (this information is known as personal data). 
@@ -78,18 +78,17 @@ If any of our processors are based outside of the UK or EEA we will ensure there
 
 What rights do you have?
 
-You have various rights in relation to your personal data. The UK’s Information Commission’s Office website provides a helpful and informative summary of your rights which you can access here: https://ico.org.uk/your-data-matters/. In particular, we’d like to remind you that you have:-the right of access to a copy of the personal data we hold about you;
-- the right to require us to correct any inaccuracies in your personal data;
-- the right to object to decisions about you being taken by automated means;
-- where we have sought your consent, the right to withdraw your consent at any time; and
-- the right to ask us not to process your personal data for direct marketing purposes.
+Data protection means that you have certain rights over the information we hold about you. This means that you can contact us and ask us to do certain things with your information, such as provide it to you or delete it. You can learn more about these rights here: https://ico.org.uk/your-data-matters/. In particular, we’d like to remind you that you can:
+- ask us for a copy of the personal data we hold about you;
+- ask us to change any information about you that is inaccurate;
+- object to decisions about you being taken by automated means (i.e. where a computer makes a decision about you with no human involvement);
+- where we have asked for your consent, you can change your mind and withdraw your consent at any time; 
+- ask us to stop using your information; 
+- ask us to share your personal data with another company; 
+- ask us to delete the information we hold about you; and
+- ask us to stop sending you direct marketing.
 
-You may also have the following rights in relation to your personal data in certain circumstances:
-- the right to restrict or object to our use of your personal data;
-- the right to require us to provide a copy of your personal data to others; and
-- the right to require us to erase your personal data.
-
-If you wish to exercise any of your rights, please contact us at legal@facepunch.com. 
+If you wish to exercise any of your rights, please contact us at legal@facepunch.com. You can exercise these rights whether you’re an adult or a child.
 
 Please be aware that each of these rights are qualified rights, meaning that there may be circumstances where we are unable to comply with your request.  Once you make a request, and where we can comply, we will do so within one calendar month although we may have to extend this for more complex requests or where we have received a high volume.  
 
@@ -117,17 +116,3 @@ Job applicants should also review the above sections of this privacy policy whic
 - How do we keep personal data safe?
 - What rights do you have?
 - Can this policy change?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
