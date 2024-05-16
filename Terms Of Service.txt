@@ -14,7 +14,7 @@ This Terms of Service (“Agreement”) explains what you can and cannot do with
 
 SUMMARY. We’re Facepunch, it applies to our games (like Garry’s Mod and Rust), this is a legally binding document, we can change it as explained below, also check out our Privacy Policy and other legal fun. 
 
-1.1. What is this Agreement? This Agreement is a legally binding contract between you and Facepunch Studios Ltd, (incorporated and registered in England with company number 06848626) of Concept House Elmore Green Road, Bloxwich, Walsall, West Midlands, WS3 2QW, United Kingdom, as well as the Facepunch group of companies (“Facepunch”). 
+1.1. What is this Agreement? This Agreement is a legally binding contract between you and Facepunch Studios Ltd, (incorporated and registered in England with company number 06848626) of 8th Floor, 103 Colmore Row, Birmingham, B3 3AG, United Kingdom, as well as the Facepunch group of companies (“Facepunch”). 
 
 1.2. What does this Agreement apply to? All of our video games (e.g. Garry’s Mod, Rust, Chippy, Clatter and s&box), our websites, any game keys or codes, Facepunch Virtual Goods (defined below), our software development kits, forums, assets and tools, plus all other Facepunch products and services (e.g. user accounts, customer and technical support, wikis, blogs and social media services) – we will refer to “Facepunch Services” to cover all of these things.
 
@@ -68,7 +68,7 @@ SUMMARY. The Facepunch Services are owned/licensed by Facepunch.
 
 5. FAN CONTENT, MODS AND COMMUNITY SERVERS 
 
-SUMMARY. We are pretty open about user generated content and stuff like that but there are some basic rules - you can read our Fan Content Guidelines here (www.facepunch.com/legal/fancontent) and our Modding Guidelines here (www.facepunch.com/legal/modding). You are responsible for any content you share via the Facepunch Services.
+SUMMARY. We are pretty open about user generated content and stuff like that but there are some basic rules - you can read our Fan Content Guidelines here (www.facepunch.com/legal/ugc) and our Modding Guidelines here (www.facepunch.com/legal/modding). You are responsible for any content you share via the Facepunch Services.
 
 5.1. What is our position on mods, community servers and fan content? You can read our Fan Content Guidelines (www.facepunch.com/legal/ugc/) for our position on user generated content including fan art and videos/streams/Let’s Plays (“User Generated Content”). By posting any User Generated Content on the Facepunch Services you are giving us permission to use it (legally, you give us a non-exclusive, permanent, irrevocable, worldwide, sub-licensable, royalty-free licence to use, modify, reproduce, create derivative works from, distribute, transmit, communicate and publicly display/perform your User Generated Content in connection with the Facepunch Services). If you do not agree to this, please do not post any User Generated Content. For Mods and standalone tools/products based on our games, please see our Modding Guidelines at www.facepunch.com/legal/modding. For community servers, please see our Community Server & Hosting Guidelines at www.facepunch.com/legal/servers.
 
